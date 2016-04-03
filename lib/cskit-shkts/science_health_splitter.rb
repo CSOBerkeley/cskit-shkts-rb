@@ -1,6 +1,6 @@
 # encoding: UTF-8
 
-include CSKit::Books::ScienceHealth
+include CSKit::Volumes::ScienceHealth
 
 module CSKit
   module Splitters
@@ -14,7 +14,7 @@ module CSKit
       end
 
       def each
-        cur_page = Page.new("vi", []) # starting page is vi (in preface)
+        cur_page = Page.new("vii", []) # starting page is vi (in preface)
         cur_line = nil
         cur_lines = []
         new_paragraph = true
