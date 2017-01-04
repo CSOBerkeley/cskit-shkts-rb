@@ -3,8 +3,8 @@
 include CSKit::Volumes::ScienceHealth
 
 module CSKit
-  module Splitters
-    class ScienceHealthSplitter
+  module ScienceHealth
+    class Splitter
 
       include Enumerable
       attr_reader :input_file
@@ -14,7 +14,7 @@ module CSKit
       end
 
       def each
-        cur_page = Page.new("vii", []) # starting page is vi (in preface)
+        cur_page = Page.new('vii', []) # starting page is vi (in preface)
         cur_line = nil
         cur_lines = []
         new_paragraph = true
@@ -49,7 +49,7 @@ module CSKit
 
       def is_flyout?(line)
         # if a line has more than 14 spaces at the beginning, it's a flyout
-        @flyout_spaces ||= " " * 14
+        @flyout_spaces ||= ' ' * 14
         line[0..13] == @flyout_spaces
       end
 

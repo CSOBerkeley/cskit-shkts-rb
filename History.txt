@@ -1,8 +1,13 @@
-== 1.0.0
+== 2.0.0
 
-* Birthday!
+* General cleanup.
+* Depend on cskit v1.1.0 and later.
+* Unify namespace as cskit/science_health (breaking change).
 
 == 1.0.1
 
 * Fix preface page numbers
 
+== 1.0.0
+
+* Birthday!
