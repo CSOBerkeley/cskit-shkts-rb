@@ -24,7 +24,7 @@ task :update do
   splitter.each_page do |page|
     File.open(File.join(output_dir, "#{page.number}.json"), 'w+') do |f|
       puts "Writing #{page.number}.json ..."
-      f.write(page.to_hash.to_json)
+      f.write(JSON.pretty_generate(page.to_hash))
     end
   end
 end

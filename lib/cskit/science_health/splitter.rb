@@ -33,8 +33,15 @@ module CSKit
                 cur_page = Page.new(page, [])
               end
 
+              # this is for certain glossary entries that don't begin
+              # with a newline, namely CHURCH. and ERROR.
+              if text.strip =~ /\A[A-Z ]{3,}\.\s/
+                new_paragraph = true
+              end
+
               cur_page.lines << Line.new(text.rstrip, nil, new_paragraph)
               cur_line = line if line
+
               new_paragraph = false
             end
           end
