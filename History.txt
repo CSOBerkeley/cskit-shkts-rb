@@ -1,3 +1,9 @@
+== 2.1.0
+
+* Generate pretty JSON to make resources more human-readable.
+* Fix bug in resource JSON where certain glossary terms (namely CHURCH and ERROR)
+  were not marked as starting a new paragraph.
+
 == 2.0.1
 
 * Oops, loosen dependency on cskit.
