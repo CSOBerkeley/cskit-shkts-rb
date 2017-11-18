@@ -1,1 +1,160 @@
-{"number":"116","lines":[{"text":"_Third Degree:_ Understanding.","flyout_text":"Reality","paragraph_start":false},{"text":"SPIRITUAL. Wisdom, purity, spiritual understanding,","flyout_text":null,"paragraph_start":true},{"text":"spiritual power, love, health, holiness.","flyout_text":"Spiritual universe","paragraph_start":false},{"text":"In the third degree mortal mind disappears, and man as","flyout_text":null,"paragraph_start":true},{"text":"God's image appears. Science so reverses the evidence","flyout_text":null,"paragraph_start":false},{"text":"before the corporeal human senses, as to make","flyout_text":null,"paragraph_start":false},{"text":"this Scriptural testimony true in our hearts,","flyout_text":null,"paragraph_start":false},{"text":"\"The last shall be first, and the first last,\" so that God","flyout_text":null,"paragraph_start":false},{"text":"and His idea may be to us what divinity really is and","flyout_text":null,"paragraph_start":false},{"text":"must of necessity be, - all-inclusive.","flyout_text":"Aim of Science","paragraph_start":false},{"text":"A correct view of Christian Science and of its adapta-","flyout_text":null,"paragraph_start":true},{"text":"tion to healing includes vastly more than is at first seen.","flyout_text":null,"paragraph_start":false},{"text":"Works on metaphysics leave the grand point","flyout_text":null,"paragraph_start":false},{"text":"untouched. They never crown the power of","flyout_text":null,"paragraph_start":false},{"text":"Mind as the Messiah, nor do they carry the day against","flyout_text":null,"paragraph_start":false},{"text":"physical enemies, - even to the extinction of all belief in","flyout_text":null,"paragraph_start":false},{"text":"matter, evil, disease, and death, - nor insist upon the fact","flyout_text":null,"paragraph_start":false},{"text":"that God is all, therefore that matter is nothing beyond an","flyout_text":null,"paragraph_start":false},{"text":"image in mortal mind.","flyout_text":"Divine personality","paragraph_start":false},{"text":"Christian Science strongly emphasizes the thought that","flyout_text":null,"paragraph_start":true},{"text":"God is not _corporeal_, but _incorporeal_, - that is,","flyout_text":null,"paragraph_start":false},{"text":"bodiless. Mortals are corporeal, but God is","flyout_text":null,"paragraph_start":false},{"text":"incorporeal.","flyout_text":null,"paragraph_start":false},{"text":"As the words _person_ and _personal_ are commonly and","flyout_text":null,"paragraph_start":true},{"text":"ignorantly employed, they often lead, when applied to","flyout_text":null,"paragraph_start":false},{"text":"Deity, to confused and erroneous conceptions of divinity","flyout_text":null,"paragraph_start":false},{"text":"and its distinction from humanity. If the term personality,","flyout_text":null,"paragraph_start":false},{"text":"as applied to God, means infinite personality, then God is","flyout_text":null,"paragraph_start":false},{"text":"infinite _Person_, - in the sense of infinite personality, but","flyout_text":null,"paragraph_start":false},{"text":"not in the lower sense. An infinite Mind in a finite form","flyout_text":null,"paragraph_start":false},{"text":"is an absolute impossibility.","flyout_text":null,"paragraph_start":false}]}
+{
+  "number": "116",
+  "lines": [
+    {
+      "text": "_Third Degree:_ Understanding.",
+      "flyout_text": "Reality",
+      "paragraph_start": false
+    },
+    {
+      "text": "SPIRITUAL. Wisdom, purity, spiritual understanding,",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "spiritual power, love, health, holiness.",
+      "flyout_text": "Spiritual universe",
+      "paragraph_start": false
+    },
+    {
+      "text": "In the third degree mortal mind disappears, and man as",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "God's image appears. Science so reverses the evidence",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "before the corporeal human senses, as to make",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "this Scriptural testimony true in our hearts,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "\"The last shall be first, and the first last,\" so that God",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and His idea may be to us what divinity really is and",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "must of necessity be, - all-inclusive.",
+      "flyout_text": "Aim of Science",
+      "paragraph_start": false
+    },
+    {
+      "text": "A correct view of Christian Science and of its adapta-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "tion to healing includes vastly more than is at first seen.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Works on metaphysics leave the grand point",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "untouched. They never crown the power of",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Mind as the Messiah, nor do they carry the day against",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "physical enemies, - even to the extinction of all belief in",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "matter, evil, disease, and death, - nor insist upon the fact",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "that God is all, therefore that matter is nothing beyond an",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "image in mortal mind.",
+      "flyout_text": "Divine personality",
+      "paragraph_start": false
+    },
+    {
+      "text": "Christian Science strongly emphasizes the thought that",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "God is not _corporeal_, but _incorporeal_, - that is,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "bodiless. Mortals are corporeal, but God is",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "incorporeal.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "As the words _person_ and _personal_ are commonly and",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "ignorantly employed, they often lead, when applied to",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Deity, to confused and erroneous conceptions of divinity",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and its distinction from humanity. If the term personality,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "as applied to God, means infinite personality, then God is",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "infinite _Person_, - in the sense of infinite personality, but",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "not in the lower sense. An infinite Mind in a finite form",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "is an absolute impossibility.",
+      "flyout_text": null,
+      "paragraph_start": false
+    }
+  ]
+}

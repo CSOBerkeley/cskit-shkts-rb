@@ -1,1 +1,165 @@
-{"number":"163","lines":[{"text":"which Hippocrates has done, by first marking Nature","flyout_text":null,"paragraph_start":false},{"text":"with his name, and afterward letting her loose upon sick","flyout_text":null,"paragraph_start":false},{"text":"people.\"","flyout_text":null,"paragraph_start":false},{"text":"Dr. Benjamin Waterhouse, Professor in Harvard Uni-","flyout_text":null,"paragraph_start":true},{"text":"versity, declared himself \"sick of learned quackery.\"","flyout_text":null,"paragraph_start":false},{"text":"Dr. James Johnson, Surgeon to William IV, King Of","flyout_text":null,"paragraph_start":true},{"text":"England, said:","flyout_text":null,"paragraph_start":false},{"text":"\"I declare my conscientious opinion, founded on long","flyout_text":null,"paragraph_start":true},{"text":"observation and reflection, that if there were not a single","flyout_text":null,"paragraph_start":false},{"text":"physician, surgeon, apothecary, man-midwife, chemist,","flyout_text":null,"paragraph_start":false},{"text":"druggist, or drug on the face of the earth, there would be","flyout_text":null,"paragraph_start":false},{"text":"less sickness and less mortality.\"","flyout_text":null,"paragraph_start":false},{"text":"Dr. Mason Good, a learned Professor in London,","flyout_text":null,"paragraph_start":true},{"text":"said:","flyout_text":null,"paragraph_start":false},{"text":"\"The effects of medicine on the human system are in","flyout_text":null,"paragraph_start":true},{"text":"the highest degree uncertain; except, indeed, that it has","flyout_text":null,"paragraph_start":false},{"text":"already destroyed more lives than war, pestilence, and","flyout_text":null,"paragraph_start":false},{"text":"famine, all combined.\"","flyout_text":null,"paragraph_start":false},{"text":"Dr. Chapman, Professor of the Institutes and Practice","flyout_text":null,"paragraph_start":true},{"text":"of Physic in the University of Pennsylvania, in a published","flyout_text":null,"paragraph_start":false},{"text":"essay said:","flyout_text":null,"paragraph_start":false},{"text":"\"Consulting the records of our science, we cannot","flyout_text":null,"paragraph_start":true},{"text":"help being disgusted with the multitude of hypotheses","flyout_text":null,"paragraph_start":false},{"text":"obtruded upon us at different times. Nowhere is the","flyout_text":null,"paragraph_start":false},{"text":"imagination displayed to a greater extent; and perhaps","flyout_text":null,"paragraph_start":false},{"text":"so ample an exhibition of human invention might gratify","flyout_text":null,"paragraph_start":false},{"text":"our vanity, if it were not more than compensated by the","flyout_text":null,"paragraph_start":false},{"text":"humiliating view of so much absurdity, contradiction,","flyout_text":null,"paragraph_start":false},{"text":"and falsehood. To harmonize the contrarieties of med-","flyout_text":null,"paragraph_start":false},{"text":"ical doctrines is indeed a task as impracticible as to","flyout_text":null,"paragraph_start":false},{"text":"arrange the fleeting vapors around us, or to reconcile the","flyout_text":null,"paragraph_start":false},{"text":"fixed and repulsive antipathies of nature. Dark and","flyout_text":null,"paragraph_start":false}]}
+{
+  "number": "163",
+  "lines": [
+    {
+      "text": "which Hippocrates has done, by first marking Nature",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "with his name, and afterward letting her loose upon sick",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "people.\"",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Dr. Benjamin Waterhouse, Professor in Harvard Uni-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "versity, declared himself \"sick of learned quackery.\"",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Dr. James Johnson, Surgeon to William IV, King Of",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "England, said:",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "\"I declare my conscientious opinion, founded on long",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "observation and reflection, that if there were not a single",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "physician, surgeon, apothecary, man-midwife, chemist,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "druggist, or drug on the face of the earth, there would be",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "less sickness and less mortality.\"",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Dr. Mason Good, a learned Professor in London,",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "said:",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "\"The effects of medicine on the human system are in",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "the highest degree uncertain; except, indeed, that it has",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "already destroyed more lives than war, pestilence, and",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "famine, all combined.\"",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Dr. Chapman, Professor of the Institutes and Practice",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "of Physic in the University of Pennsylvania, in a published",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "essay said:",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "\"Consulting the records of our science, we cannot",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "help being disgusted with the multitude of hypotheses",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "obtruded upon us at different times. Nowhere is the",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "imagination displayed to a greater extent; and perhaps",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "so ample an exhibition of human invention might gratify",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "our vanity, if it were not more than compensated by the",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "humiliating view of so much absurdity, contradiction,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and falsehood. To harmonize the contrarieties of med-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ical doctrines is indeed a task as impracticible as to",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "arrange the fleeting vapors around us, or to reconcile the",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "fixed and repulsive antipathies of nature. Dark and",
+      "flyout_text": null,
+      "paragraph_start": false
+    }
+  ]
+}

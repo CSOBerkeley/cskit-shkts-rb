@@ -1,1 +1,165 @@
-{"number":"128","lines":[{"text":"ditions, and that these are final and overrule the might of","flyout_text":null,"paragraph_start":false},{"text":"divine Mind. Good is natural and primitive. It is not","flyout_text":null,"paragraph_start":false},{"text":"miraculous to itself.","flyout_text":"Practical Science","paragraph_start":false},{"text":"The term Science, properly understood, refers only to","flyout_text":null,"paragraph_start":true},{"text":"the laws of God and to His government of the universe,","flyout_text":null,"paragraph_start":false},{"text":"inclusive of man. From this it follows that","flyout_text":null,"paragraph_start":false},{"text":"business men and cultured scholars have found","flyout_text":null,"paragraph_start":false},{"text":"that Christian Science enhances their endurance and","flyout_text":null,"paragraph_start":false},{"text":"mental powers, enlarges their perception of character,","flyout_text":null,"paragraph_start":false},{"text":"gives them acuteness and comprehensiveness and an","flyout_text":null,"paragraph_start":false},{"text":"ability to exceed their ordinary capacity. The human","flyout_text":null,"paragraph_start":false},{"text":"mind, imbued with this spiritual understanding, becomes","flyout_text":null,"paragraph_start":false},{"text":"more elastic, is capable of greater endurance, escapes","flyout_text":null,"paragraph_start":false},{"text":"somewhat from itself, and requires less repose. A knowl-","flyout_text":null,"paragraph_start":false},{"text":"edge of the Science of being develops the latent abilities","flyout_text":null,"paragraph_start":false},{"text":"and possibilities of man. It extends the atmosphere of","flyout_text":null,"paragraph_start":false},{"text":"thought, giving mortals access to broader and higher","flyout_text":null,"paragraph_start":false},{"text":"realms. It raises the thinker into his native air of insight","flyout_text":null,"paragraph_start":false},{"text":"and perspicacity.","flyout_text":null,"paragraph_start":false},{"text":"An odor becomes beneficent and agreeable only in pro-","flyout_text":null,"paragraph_start":true},{"text":"portion to its escape into the surrounding atmosphere.","flyout_text":null,"paragraph_start":false},{"text":"So it is with our knowledge of Truth. If one would","flyout_text":null,"paragraph_start":false},{"text":"not quarrel with his fellow-man for waking him from","flyout_text":null,"paragraph_start":false},{"text":"a cataleptic nightmare, he should not resist Truth, which","flyout_text":null,"paragraph_start":false},{"text":"banishes - yea, forever destroys with the higher testi-","flyout_text":null,"paragraph_start":false},{"text":"mony of Spirit - the so-called evidence of matter.","flyout_text":"Mathematics and scientific logic","paragraph_start":false},{"text":"Science relates to Mind, not matter. It rests on fixed","flyout_text":null,"paragraph_start":true},{"text":"Principle and not upon the judgment of false sensation.","flyout_text":null,"paragraph_start":false},{"text":"The addition of two sums in mathematics must","flyout_text":null,"paragraph_start":false},{"text":"always bring the same result. So is it with","flyout_text":null,"paragraph_start":false},{"text":"logic. If both the major and the minor propo-","flyout_text":null,"paragraph_start":false},{"text":"sitions of a syllogism are correct, the conclusion, if properly","flyout_text":null,"paragraph_start":false}]}
+{
+  "number": "128",
+  "lines": [
+    {
+      "text": "ditions, and that these are final and overrule the might of",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "divine Mind. Good is natural and primitive. It is not",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "miraculous to itself.",
+      "flyout_text": "Practical Science",
+      "paragraph_start": false
+    },
+    {
+      "text": "The term Science, properly understood, refers only to",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "the laws of God and to His government of the universe,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "inclusive of man. From this it follows that",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "business men and cultured scholars have found",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "that Christian Science enhances their endurance and",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "mental powers, enlarges their perception of character,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "gives them acuteness and comprehensiveness and an",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ability to exceed their ordinary capacity. The human",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "mind, imbued with this spiritual understanding, becomes",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "more elastic, is capable of greater endurance, escapes",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "somewhat from itself, and requires less repose. A knowl-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "edge of the Science of being develops the latent abilities",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and possibilities of man. It extends the atmosphere of",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "thought, giving mortals access to broader and higher",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "realms. It raises the thinker into his native air of insight",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and perspicacity.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "An odor becomes beneficent and agreeable only in pro-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "portion to its escape into the surrounding atmosphere.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "So it is with our knowledge of Truth. If one would",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "not quarrel with his fellow-man for waking him from",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "a cataleptic nightmare, he should not resist Truth, which",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "banishes - yea, forever destroys with the higher testi-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "mony of Spirit - the so-called evidence of matter.",
+      "flyout_text": "Mathematics and scientific logic",
+      "paragraph_start": false
+    },
+    {
+      "text": "Science relates to Mind, not matter. It rests on fixed",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "Principle and not upon the judgment of false sensation.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "The addition of two sums in mathematics must",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "always bring the same result. So is it with",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "logic. If both the major and the minor propo-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "sitions of a syllogism are correct, the conclusion, if properly",
+      "flyout_text": null,
+      "paragraph_start": false
+    }
+  ]
+}

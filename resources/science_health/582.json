@@ -1,1 +1,150 @@
-{"number":"582","lines":[{"text":"BELIEVING. Firmness and constancy; not a faltering","flyout_text":null,"paragraph_start":true},{"text":"nor a blind faith, but the perception of spiritual Truth.","flyout_text":null,"paragraph_start":false},{"text":"Mortal thoughts, illusion.","flyout_text":null,"paragraph_start":false},{"text":"BENJAMIN (Jacob's son). A physical belief as to life,","flyout_text":null,"paragraph_start":true},{"text":"substance, and mind; human knowledge, or so-called","flyout_text":null,"paragraph_start":false},{"text":"mortal mind, devoted to matter; pride; envy; fame;","flyout_text":null,"paragraph_start":false},{"text":"illusion; a false belief; error masquerading as the pos-","flyout_text":null,"paragraph_start":false},{"text":"sessor of life, strength, animation, and power to act.","flyout_text":null,"paragraph_start":false},{"text":"Renewal of affections; self-offering; an improved","flyout_text":null,"paragraph_start":true},{"text":"state of mortal mind; the introduction of a more spiritual","flyout_text":null,"paragraph_start":false},{"text":"origin; a gleam of the infinite idea of the infinite Prin-","flyout_text":null,"paragraph_start":false},{"text":"ciple; a spiritual type; that which comforts, consoles,","flyout_text":null,"paragraph_start":false},{"text":"and supports.","flyout_text":null,"paragraph_start":false},{"text":"BRIDE. Purity and innocence, conceiving man in the","flyout_text":null,"paragraph_start":true},{"text":"idea of God; a sense of Soul, which has spiritual bliss","flyout_text":null,"paragraph_start":false},{"text":"and enjoys but cannot suffer.","flyout_text":null,"paragraph_start":false},{"text":"BRIDEGROOM. Spiritual understanding; the pure con-","flyout_text":null,"paragraph_start":true},{"text":"sciousness that God, the divine Principle, creates man","flyout_text":null,"paragraph_start":false},{"text":"as His own spiritual idea, and that God is the only crea-","flyout_text":null,"paragraph_start":false},{"text":"tive power.","flyout_text":null,"paragraph_start":false},{"text":"BURIAL. Corporeality and physical sense put out of","flyout_text":null,"paragraph_start":true},{"text":"sight and hearing; annihilation. Submergence in Spirit;","flyout_text":null,"paragraph_start":false},{"text":"immortality brought to light.","flyout_text":null,"paragraph_start":false},{"text":"CANAAN (the son of Ham). A sensuous belief; the","flyout_text":null,"paragraph_start":false},{"text":"testimony of what is termed material sense; the error","flyout_text":null,"paragraph_start":false},{"text":"which would make man mortal and would make mortal","flyout_text":null,"paragraph_start":false},{"text":"mind a slave to the body.","flyout_text":null,"paragraph_start":false},{"text":"CHILDREN. The spiritual thoughts and representa-","flyout_text":null,"paragraph_start":true},{"text":"tives of Life, Truth, and Love.","flyout_text":null,"paragraph_start":false}]}
+{
+  "number": "582",
+  "lines": [
+    {
+      "text": "BELIEVING. Firmness and constancy; not a faltering",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "nor a blind faith, but the perception of spiritual Truth.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Mortal thoughts, illusion.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "BENJAMIN (Jacob's son). A physical belief as to life,",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "substance, and mind; human knowledge, or so-called",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "mortal mind, devoted to matter; pride; envy; fame;",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "illusion; a false belief; error masquerading as the pos-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "sessor of life, strength, animation, and power to act.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Renewal of affections; self-offering; an improved",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "state of mortal mind; the introduction of a more spiritual",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "origin; a gleam of the infinite idea of the infinite Prin-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ciple; a spiritual type; that which comforts, consoles,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and supports.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "BRIDE. Purity and innocence, conceiving man in the",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "idea of God; a sense of Soul, which has spiritual bliss",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and enjoys but cannot suffer.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "BRIDEGROOM. Spiritual understanding; the pure con-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "sciousness that God, the divine Principle, creates man",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "as His own spiritual idea, and that God is the only crea-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "tive power.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "BURIAL. Corporeality and physical sense put out of",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "sight and hearing; annihilation. Submergence in Spirit;",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "immortality brought to light.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "CANAAN (the son of Ham). A sensuous belief; the",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "testimony of what is termed material sense; the error",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "which would make man mortal and would make mortal",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "mind a slave to the body.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "CHILDREN. The spiritual thoughts and representa-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "tives of Life, Truth, and Love.",
+      "flyout_text": null,
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,1 +1,165 @@
-{"number":"42","lines":[{"text":"Jesus' life proved, divinely and scientifically, that God","flyout_text":null,"paragraph_start":false},{"text":"is Love, whereas priest and rabbi affirmed God to be a","flyout_text":null,"paragraph_start":false},{"text":"mighty potentate, who loves and hates. The Jewish the-","flyout_text":null,"paragraph_start":false},{"text":"ology gave no hint of the unchanging love of God.","flyout_text":"A belief in death","paragraph_start":false},{"text":"The universal belief in death is of no advantage. It","flyout_text":null,"paragraph_start":true},{"text":"cannot make Life or Truth apparent. Death","flyout_text":null,"paragraph_start":false},{"text":"will be found at length to be a mortal dream,","flyout_text":null,"paragraph_start":false},{"text":"which comes in darkness and disappears with the light.","flyout_text":"Cruel desertion","paragraph_start":false},{"text":"The \"man of sorrows\" was in no peril from salary or","flyout_text":null,"paragraph_start":true},{"text":"popularity. Though entitled to the homage of the world","flyout_text":null,"paragraph_start":false},{"text":"and endorsed pre-eminently by the approval","flyout_text":null,"paragraph_start":false},{"text":"of God, his brief triumphal entry into Jerusa-","flyout_text":null,"paragraph_start":false},{"text":"lem was followed by the desertion of all save a few friends,","flyout_text":null,"paragraph_start":false},{"text":"who sadly followed him to the foot of the cross.","flyout_text":"Death outdone","paragraph_start":false},{"text":"The resurrection of the great demonstrator of God's","flyout_text":null,"paragraph_start":true},{"text":"power was the proof of his final triumph over body","flyout_text":null,"paragraph_start":false},{"text":"and matter, and gave full evidence of divine","flyout_text":null,"paragraph_start":false},{"text":"Science, - evidence so important to mortals.","flyout_text":null,"paragraph_start":false},{"text":"The belief that man has existence or mind separate from","flyout_text":null,"paragraph_start":false},{"text":"God is a dying error. This error Jesus met with divine","flyout_text":null,"paragraph_start":false},{"text":"Science and proved its nothingness. Because of the won-","flyout_text":null,"paragraph_start":false},{"text":"drous glory which God bestowed on His anointed, temp-","flyout_text":null,"paragraph_start":false},{"text":"tation, sin, sickness, and death had no terror for Jesus.","flyout_text":null,"paragraph_start":false},{"text":"Let men think they had killed the body! Afterwards he","flyout_text":null,"paragraph_start":false},{"text":"would show it to them unchanged. This demonstrates","flyout_text":null,"paragraph_start":false},{"text":"that in Christian Science the true man is governed by","flyout_text":null,"paragraph_start":false},{"text":"God - by good, not evil - and is therefore not a mortal","flyout_text":null,"paragraph_start":false},{"text":"but an immortal. Jesus had taught his disciples the","flyout_text":null,"paragraph_start":false},{"text":"Science of this proof. He was here to enable them to","flyout_text":null,"paragraph_start":false},{"text":"test his still uncomprehended saying, \"He that believ-","flyout_text":null,"paragraph_start":false},{"text":"eth on me, the works that I do shall he do also.\" They","flyout_text":null,"paragraph_start":false},{"text":"must understand more fully his Life-principle by casting","flyout_text":null,"paragraph_start":false}]}
+{
+  "number": "42",
+  "lines": [
+    {
+      "text": "Jesus' life proved, divinely and scientifically, that God",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "is Love, whereas priest and rabbi affirmed God to be a",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "mighty potentate, who loves and hates. The Jewish the-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ology gave no hint of the unchanging love of God.",
+      "flyout_text": "A belief in death",
+      "paragraph_start": false
+    },
+    {
+      "text": "The universal belief in death is of no advantage. It",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "cannot make Life or Truth apparent. Death",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "will be found at length to be a mortal dream,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "which comes in darkness and disappears with the light.",
+      "flyout_text": "Cruel desertion",
+      "paragraph_start": false
+    },
+    {
+      "text": "The \"man of sorrows\" was in no peril from salary or",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "popularity. Though entitled to the homage of the world",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and endorsed pre-eminently by the approval",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "of God, his brief triumphal entry into Jerusa-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "lem was followed by the desertion of all save a few friends,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "who sadly followed him to the foot of the cross.",
+      "flyout_text": "Death outdone",
+      "paragraph_start": false
+    },
+    {
+      "text": "The resurrection of the great demonstrator of God's",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "power was the proof of his final triumph over body",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and matter, and gave full evidence of divine",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Science, - evidence so important to mortals.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "The belief that man has existence or mind separate from",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "God is a dying error. This error Jesus met with divine",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Science and proved its nothingness. Because of the won-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "drous glory which God bestowed on His anointed, temp-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "tation, sin, sickness, and death had no terror for Jesus.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Let men think they had killed the body! Afterwards he",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "would show it to them unchanged. This demonstrates",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "that in Christian Science the true man is governed by",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "God - by good, not evil - and is therefore not a mortal",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "but an immortal. Jesus had taught his disciples the",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Science of this proof. He was here to enable them to",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "test his still uncomprehended saying, \"He that believ-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "eth on me, the works that I do shall he do also.\" They",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "must understand more fully his Life-principle by casting",
+      "flyout_text": null,
+      "paragraph_start": false
+    }
+  ]
+}

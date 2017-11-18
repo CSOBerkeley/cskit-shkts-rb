@@ -1,1 +1,160 @@
-{"number":"431","lines":[{"text":"I must remain silent until called for at this trial, when I","flyout_text":null,"paragraph_start":false},{"text":"would be allowed to testify in the case. Notwithstanding","flyout_text":null,"paragraph_start":false},{"text":"my rules to the contrary, the prisoner watched with the sick","flyout_text":null,"paragraph_start":false},{"text":"every night in the week. When the sick mortal was thirsty,","flyout_text":null,"paragraph_start":false},{"text":"the prisoner gave him drink. During all this time the pris-","flyout_text":null,"paragraph_start":false},{"text":"oner attended to his daily labors, partaking of food at ir-","flyout_text":null,"paragraph_start":false},{"text":"regular intervals, sometimes going to sleep immediately","flyout_text":null,"paragraph_start":false},{"text":"after a heavy meal. At last he committed liver-complaint,","flyout_text":null,"paragraph_start":false},{"text":"which I considered criminal, inasmuch as this offence is","flyout_text":null,"paragraph_start":false},{"text":"deemed punishable with death. Therefore I arrested Mor-","flyout_text":null,"paragraph_start":false},{"text":"tal Man in behalf of the state (namely, the body) and cast","flyout_text":null,"paragraph_start":false},{"text":"him into prison.","flyout_text":null,"paragraph_start":false},{"text":"At the time of the arrest the prisoner summoned Physi-","flyout_text":null,"paragraph_start":true},{"text":"ology, Materia Medica, and Hypnotism to prevent his pun-","flyout_text":null,"paragraph_start":false},{"text":"ishment. The struggle on their part was long. Materia","flyout_text":null,"paragraph_start":false},{"text":"Medica held out the longest, but at length all these assist-","flyout_text":null,"paragraph_start":false},{"text":"ants resigned to me, Health-laws, and I succeeded in get-","flyout_text":null,"paragraph_start":false},{"text":"ting Mortal Man into close confinement until I should","flyout_text":null,"paragraph_start":false},{"text":"release him.","flyout_text":null,"paragraph_start":false},{"text":"The next witness is called:-","flyout_text":null,"paragraph_start":true},{"text":"I am Coated Tongue. I am covered with a foul fur,","flyout_text":null,"paragraph_start":true},{"text":"placed on me the night of the liver-attack. Morbid Secre-","flyout_text":null,"paragraph_start":false},{"text":"tion hypnotized the prisoner and took control of his mind,","flyout_text":null,"paragraph_start":false},{"text":"making him despondent.","flyout_text":null,"paragraph_start":false},{"text":"Another witness takes the stand and testifies:-","flyout_text":null,"paragraph_start":true},{"text":"I am Sallow Skin. I have been dry, hot, and chilled by","flyout_text":null,"paragraph_start":true},{"text":"turns since the night of the liver-attack. I have lost my","flyout_text":null,"paragraph_start":false},{"text":"healthy hue and become unsightly, although nothing on my","flyout_text":null,"paragraph_start":false},{"text":"part has occasioned this change. I practise daily ablutions","flyout_text":null,"paragraph_start":false},{"text":"and perform my functions as usual, but I am robbed of my","flyout_text":null,"paragraph_start":false},{"text":"good looks.","flyout_text":null,"paragraph_start":false}]}
+{
+  "number": "431",
+  "lines": [
+    {
+      "text": "I must remain silent until called for at this trial, when I",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "would be allowed to testify in the case. Notwithstanding",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "my rules to the contrary, the prisoner watched with the sick",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "every night in the week. When the sick mortal was thirsty,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "the prisoner gave him drink. During all this time the pris-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "oner attended to his daily labors, partaking of food at ir-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "regular intervals, sometimes going to sleep immediately",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "after a heavy meal. At last he committed liver-complaint,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "which I considered criminal, inasmuch as this offence is",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "deemed punishable with death. Therefore I arrested Mor-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "tal Man in behalf of the state (namely, the body) and cast",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "him into prison.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "At the time of the arrest the prisoner summoned Physi-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "ology, Materia Medica, and Hypnotism to prevent his pun-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ishment. The struggle on their part was long. Materia",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Medica held out the longest, but at length all these assist-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ants resigned to me, Health-laws, and I succeeded in get-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ting Mortal Man into close confinement until I should",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "release him.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "The next witness is called:-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "I am Coated Tongue. I am covered with a foul fur,",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "placed on me the night of the liver-attack. Morbid Secre-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "tion hypnotized the prisoner and took control of his mind,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "making him despondent.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Another witness takes the stand and testifies:-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "I am Sallow Skin. I have been dry, hot, and chilled by",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "turns since the night of the liver-attack. I have lost my",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "healthy hue and become unsightly, although nothing on my",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "part has occasioned this change. I practise daily ablutions",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "and perform my functions as usual, but I am robbed of my",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "good looks.",
+      "flyout_text": null,
+      "paragraph_start": false
+    }
+  ]
+}

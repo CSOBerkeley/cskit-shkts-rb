@@ -1,1 +1,165 @@
-{"number":"2","lines":[{"text":"What are the motives for prayer? Do we pray to","flyout_text":null,"paragraph_start":true},{"text":"make ourselves better or to benefit those who hear us,","flyout_text":null,"paragraph_start":false},{"text":"to enlighten the infinite or to be heard of","flyout_text":null,"paragraph_start":false},{"text":"men? Are we benefited by praying? Yes,","flyout_text":null,"paragraph_start":false},{"text":"the desire which goes forth hungering after righteous-","flyout_text":null,"paragraph_start":false},{"text":"ness is blessed of our Father, and it does not return","flyout_text":null,"paragraph_start":false},{"text":"unto us void.","flyout_text":"Deity unchangeable","paragraph_start":false},{"text":"God is not moved by the breath of praise to do more","flyout_text":null,"paragraph_start":true},{"text":"than He has already done, nor can the infinite do less","flyout_text":null,"paragraph_start":false},{"text":"than bestow all good, since He is unchang-","flyout_text":null,"paragraph_start":false},{"text":"ing wisdom and Love. We can do more for","flyout_text":null,"paragraph_start":false},{"text":"ourselves by humble fervent petitions, but the All-lov-","flyout_text":null,"paragraph_start":false},{"text":"ing does not grant them simply on the ground of lip-","flyout_text":null,"paragraph_start":false},{"text":"service, for He already knows all.","flyout_text":null,"paragraph_start":false},{"text":"Prayer cannot change the Science of being, but it","flyout_text":null,"paragraph_start":true},{"text":"tends to bring us into harmony with it. Goodness at-","flyout_text":null,"paragraph_start":false},{"text":"tains the demonstration of Truth. A request that","flyout_text":null,"paragraph_start":false},{"text":"God will save us is not all that is required. The mere","flyout_text":null,"paragraph_start":false},{"text":"habit of pleading with the divine Mind, as one pleads","flyout_text":null,"paragraph_start":false},{"text":"with a human being, perpetuates the belief in God as","flyout_text":null,"paragraph_start":false},{"text":"humanly circumscribed,- an error which impedes spirit-","flyout_text":null,"paragraph_start":false},{"text":"ual growth.","flyout_text":"God's standard","paragraph_start":false},{"text":"God is Love. Can we ask Him to be more? God is","flyout_text":null,"paragraph_start":true},{"text":"intelligence. Can we inform the infinite Mind of any-","flyout_text":null,"paragraph_start":false},{"text":"thing He does not already comprehend?","flyout_text":null,"paragraph_start":false},{"text":"Do we expect to change perfection? Shall","flyout_text":null,"paragraph_start":false},{"text":"we plead for more at the open fount, which is pour-","flyout_text":null,"paragraph_start":false},{"text":"ing forth more than we accept? The unspoken desire","flyout_text":null,"paragraph_start":false},{"text":"does bring us nearer the source of all existence and","flyout_text":null,"paragraph_start":false},{"text":"blessedness.","flyout_text":null,"paragraph_start":false},{"text":"Asking God to _be_ God is a vain repetition. God is","flyout_text":null,"paragraph_start":true},{"text":"\"the same yesterday, and to-day, and forever;\" and","flyout_text":null,"paragraph_start":false}]}
+{
+  "number": "2",
+  "lines": [
+    {
+      "text": "What are the motives for prayer? Do we pray to",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "make ourselves better or to benefit those who hear us,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "to enlighten the infinite or to be heard of",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "men? Are we benefited by praying? Yes,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "the desire which goes forth hungering after righteous-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ness is blessed of our Father, and it does not return",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "unto us void.",
+      "flyout_text": "Deity unchangeable",
+      "paragraph_start": false
+    },
+    {
+      "text": "God is not moved by the breath of praise to do more",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "than He has already done, nor can the infinite do less",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "than bestow all good, since He is unchang-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ing wisdom and Love. We can do more for",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ourselves by humble fervent petitions, but the All-lov-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ing does not grant them simply on the ground of lip-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "service, for He already knows all.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Prayer cannot change the Science of being, but it",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "tends to bring us into harmony with it. Goodness at-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "tains the demonstration of Truth. A request that",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "God will save us is not all that is required. The mere",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "habit of pleading with the divine Mind, as one pleads",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "with a human being, perpetuates the belief in God as",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "humanly circumscribed,- an error which impedes spirit-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ual growth.",
+      "flyout_text": "God's standard",
+      "paragraph_start": false
+    },
+    {
+      "text": "God is Love. Can we ask Him to be more? God is",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "intelligence. Can we inform the infinite Mind of any-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "thing He does not already comprehend?",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Do we expect to change perfection? Shall",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "we plead for more at the open fount, which is pour-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "ing forth more than we accept? The unspoken desire",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "does bring us nearer the source of all existence and",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "blessedness.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Asking God to _be_ God is a vain repetition. God is",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "\"the same yesterday, and to-day, and forever;\" and",
+      "flyout_text": null,
+      "paragraph_start": false
+    }
+  ]
+}

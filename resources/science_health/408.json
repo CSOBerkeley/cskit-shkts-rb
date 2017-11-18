@@ -1,1 +1,165 @@
-{"number":"408","lines":[{"text":"Every sort of sickness is error, - that is, sickness is","flyout_text":null,"paragraph_start":false},{"text":"loss of harmony. This view is not altered by the fact","flyout_text":null,"paragraph_start":false},{"text":"that sin is worse than sickness, and sickness is not ac-","flyout_text":null,"paragraph_start":false},{"text":"knowledged nor discovered to be error by many who are","flyout_text":null,"paragraph_start":false},{"text":"sick.","flyout_text":null,"paragraph_start":false},{"text":"There is a universal insanity of so-called health, which","flyout_text":null,"paragraph_start":true},{"text":"mistakes fable for fact throughout the entire round of the","flyout_text":null,"paragraph_start":false},{"text":"material senses, but this general craze cannot, in a scien-","flyout_text":null,"paragraph_start":false},{"text":"tific diagnosis, shield the individual case from the special","flyout_text":null,"paragraph_start":false},{"text":"name of insanity. Those unfortunate people who are","flyout_text":null,"paragraph_start":false},{"text":"committed to insane asylums are only so many distinctly","flyout_text":null,"paragraph_start":false},{"text":"defined instances of the baneful effects of illusion on mor-","flyout_text":null,"paragraph_start":false},{"text":"tal minds and bodies.","flyout_text":"Drugs and brain-lobes","paragraph_start":false},{"text":"The supposition that we can correct insanity by the use","flyout_text":null,"paragraph_start":true},{"text":"of purgatives and narcotics is in itself a mild species of","flyout_text":null,"paragraph_start":false},{"text":"insanity. Can drugs go of their own accord","flyout_text":null,"paragraph_start":false},{"text":"to the brain and destroy the so-called inflam-","flyout_text":null,"paragraph_start":false},{"text":"mation of disordered functions, thus reaching mortal","flyout_text":null,"paragraph_start":false},{"text":"mind through matter? Drugs do not affect a corpse, and","flyout_text":null,"paragraph_start":false},{"text":"Truth does not distribute drugs through the blood, and","flyout_text":null,"paragraph_start":false},{"text":"from them derive a supposed effect on intelligence and sen-","flyout_text":null,"paragraph_start":false},{"text":"timent. A dislocation of the tarsal joint would produce","flyout_text":null,"paragraph_start":false},{"text":"insanity as perceptibly as would congestion of the brain,","flyout_text":null,"paragraph_start":false},{"text":"were it not that mortal mind thinks that the tarsal joint is","flyout_text":null,"paragraph_start":false},{"text":"less intimately connected with the mind than is the brain.","flyout_text":null,"paragraph_start":false},{"text":"Reverse the belief, and the results would be perceptibly","flyout_text":null,"paragraph_start":false},{"text":"different.","flyout_text":"Matter and animate error","paragraph_start":false},{"text":"The unconscious thought in the corporeal substra-","flyout_text":null,"paragraph_start":true},{"text":"tum of brain produces no effect, and that condition of","flyout_text":null,"paragraph_start":false},{"text":"the body which we call sensation in matter","flyout_text":null,"paragraph_start":false},{"text":"is unreal. Mortal mind is ignorant of it-","flyout_text":null,"paragraph_start":false},{"text":"self, - ignorant of the errors it includes and of their","flyout_text":null,"paragraph_start":false}]}
+{
+  "number": "408",
+  "lines": [
+    {
+      "text": "Every sort of sickness is error, - that is, sickness is",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "loss of harmony. This view is not altered by the fact",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "that sin is worse than sickness, and sickness is not ac-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "knowledged nor discovered to be error by many who are",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "sick.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "There is a universal insanity of so-called health, which",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "mistakes fable for fact throughout the entire round of the",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "material senses, but this general craze cannot, in a scien-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "tific diagnosis, shield the individual case from the special",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "name of insanity. Those unfortunate people who are",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "committed to insane asylums are only so many distinctly",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "defined instances of the baneful effects of illusion on mor-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "tal minds and bodies.",
+      "flyout_text": "Drugs and brain-lobes",
+      "paragraph_start": false
+    },
+    {
+      "text": "The supposition that we can correct insanity by the use",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "of purgatives and narcotics is in itself a mild species of",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "insanity. Can drugs go of their own accord",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "to the brain and destroy the so-called inflam-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "mation of disordered functions, thus reaching mortal",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "mind through matter? Drugs do not affect a corpse, and",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Truth does not distribute drugs through the blood, and",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "from them derive a supposed effect on intelligence and sen-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "timent. A dislocation of the tarsal joint would produce",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "insanity as perceptibly as would congestion of the brain,",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "were it not that mortal mind thinks that the tarsal joint is",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "less intimately connected with the mind than is the brain.",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "Reverse the belief, and the results would be perceptibly",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "different.",
+      "flyout_text": "Matter and animate error",
+      "paragraph_start": false
+    },
+    {
+      "text": "The unconscious thought in the corporeal substra-",
+      "flyout_text": null,
+      "paragraph_start": true
+    },
+    {
+      "text": "tum of brain produces no effect, and that condition of",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "the body which we call sensation in matter",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "is unreal. Mortal mind is ignorant of it-",
+      "flyout_text": null,
+      "paragraph_start": false
+    },
+    {
+      "text": "self, - ignorant of the errors it includes and of their",
+      "flyout_text": null,
+      "paragraph_start": false
+    }
+  ]
+}
