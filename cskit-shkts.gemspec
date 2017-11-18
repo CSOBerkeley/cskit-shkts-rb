@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version  = ::CSKit::ScienceHealth::VERSION
   s.authors  = ['Cameron Dutro']
   s.email    = ['camertron@gmail.com']
-  s.homepage = 'http://github.com/camertron'
+  s.homepage = 'http://github.com/CSOBerkeley/cskit-shkts-rb'
 
   s.description = s.summary = 'Science and Health resources for CSKit.'
 
